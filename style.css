@@ -1,0 +1,28 @@
+.w-45 {
+  width: 45%;
+  margin: 0.5rem 0;
+}
+
+.btn-danger {
+  background-color: #db0c8f;
+  border-color: #db0c8f;
+}
+
+.btn-danger:hover {
+  background-color: #c73c94;
+  border-color: #c73c94;
+}
+
+.nav-link:hover {
+  color: #db0c8f !important;
+}
+
+.card-img-top {
+  transition: all 1s ease-in-out;
+  border-radius: 50%;
+}
+
+.card-img-top:hover {
+  transform: scale(1.03);
+  cursor: pointer;
+}
